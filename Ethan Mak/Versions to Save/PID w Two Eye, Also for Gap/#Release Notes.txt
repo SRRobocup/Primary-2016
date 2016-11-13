@@ -1,0 +1,13 @@
+This version contains:
+-Two Eye PID Line Trace
+ - Calculates total difference from thresholds as current
+-Gap with Two Eye PID
+ - Light Array used only to detect gap
+ - Backs up and uses two eye PID to allign
+-Ramp with IMU
+ -Implements getIncline(), gets degree of incline from Absolute IMU
+ -Has some inconsistency
+
+!!!! RAMP NOT IMPLEMENTED YET !!!!
+
+!!!! ONLY HAS getIncline() !!!!

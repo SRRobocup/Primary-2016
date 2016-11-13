@@ -1,0 +1,10 @@
+This version contains:
+- Two Eye Ad-hoc Line Trace
+- Gap with polar coordinates
+  - Maps the light array values from 0 to 0.8
+  - Uses that derivative with the rate of change of encoders/cm backward to calculate atan and degrees
+
+
+!!!! DOES NOT WORK !!!!
+
+!!!! ONLY HERE FOR REFERENCE !!!!
